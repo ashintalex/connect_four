@@ -1,6 +1,4 @@
-#Name: Ashin ALex
-#ID  : 170238021
-#UPI  : atha534s
+#Name: Ashin Alex
 
 import Ass
 import tkinter as tk

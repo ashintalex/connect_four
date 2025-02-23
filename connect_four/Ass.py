@@ -1,6 +1,4 @@
-#Name: Ashin ALex
-#ID  : 170238021
-#UPI  : atha534
+#Name: Ashin Alex
 
 class GameBoard:
     def __init__(self, size):
